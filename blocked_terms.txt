@@ -1,0 +1,7 @@
+# One term per line. Lines starting with # are ignored.
+# Terms are matched as substrings, case-insensitive.
+sex
+porn
+xxx
+nude
+nsfw
