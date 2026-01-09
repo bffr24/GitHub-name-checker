@@ -22,7 +22,7 @@ Files Created
 - `available names.txt`: any available names found during scans
 - `blocked_terms.txt`: terms that are skipped (one per line, case-insensitive)
 
-Rate Limits (Important)
+Rate Limits 
 -----------------------
 GitHub enforces multiple rate limits:
 - The GitHub API (api.github.com) has its own rate limits.
