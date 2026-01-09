@@ -38,7 +38,7 @@ Add a delay (optional):
 
 How to Add a Token
 ------------------
-1) Create a GitHub Personal Access Token (classic is fine).
+1) Create a GitHub Personal Access Token.
 2) Put it in `.env` in the same folder as the script:
       GITHUB_TOKEN=your_token_here
 3) Run the checker again.
